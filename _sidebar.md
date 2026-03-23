@@ -1,0 +1,5 @@
+* [🏠 Home](/)
+* [⚙️ Products & Specs](/products)
+* [💰 Cost Savings & Quality](/savings)
+* [📦 Custom Orders & Samples](/samples)
+* [📞 Contact / Quote](/contact)
